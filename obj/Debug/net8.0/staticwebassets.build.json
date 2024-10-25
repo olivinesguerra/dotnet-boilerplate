@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oBWL0GyT+NvJf66OWQaPCOD+6GB8UeDvZKx8ffOeECg=",
+  "Source": "net-core-example",
+  "BasePath": "_content/net-core-example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
